@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Handlers</title>
+    <script>
+        // JavaScript function to change text color
+        function changeColor() {
+            document.getElementById("text").style.color = "blue";
+        }
+
+        // JavaScript function to display an alert message
+        function showAlert() {
+            alert("Seat Reserved");
+        }
+    </script>
+</head>
+<body>
+    <h1>Event Handlers</h1>
+    <button onclick="changeColor()">Change Text Color</button>
+    <p id="text">JAI BHEEM</p>
+    <button onclick="showAlert()">Click Me</button>
+</body>
+</html>

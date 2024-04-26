@@ -32,3 +32,9 @@
 32.
 33.ruby.txt
 34.
+
+---others----
+array.txt
+inheritance.txt
+xml.txt
+x.txt (xampp instructions)
